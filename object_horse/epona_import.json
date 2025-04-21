@@ -1,0 +1,18 @@
+{
+  "file": "object_horse.c",
+  "base_path": "./", 
+  "skeleton": "gEponaSkel",
+  "animations": [
+    "gEponaGallopingAnim",
+    "gEponaJumpingAnim",
+    "gEponaJumpingHighAnim",
+    "gEponaTrottingAnim",
+    "gEponaRearingAnim",
+    "gEponaRefuseAnim",
+    "gEponaWhinnyAnim",
+    "gEponaIdleAnim",
+    "gEponaWalkingAnim"
+  ],
+  "textures": [],
+  "scale": 1.0
+}
